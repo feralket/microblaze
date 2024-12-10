@@ -1,0 +1,300 @@
+
+*** Running vivado
+    with args -log mbdesign_dig_stopwatch_0_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source mbdesign_dig_stopwatch_0_0.tcl
+
+
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source mbdesign_dig_stopwatch_0_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/ip_repo/dig_stopwatch_1_0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2022.2/data/ip'.
+WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
+Current IP cache path is c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.cache/ip 
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: mbdesign_dig_stopwatch_0_0
+Command: synth_design -top mbdesign_dig_stopwatch_0_0 -part xc7a100tcsg324-1 -incremental_mode off -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 16272
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [C:/Xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:14 ; elapsed = 00:00:20 . Memory (MB): peak = 1710.020 ; gain = 408.629
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'mbdesign_dig_stopwatch_0_0' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ip/mbdesign_dig_stopwatch_0_0/synth/mbdesign_dig_stopwatch_0_0.vhd:85]
+	Parameter C_S00_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S00_AXI_ADDR_WIDTH bound to: 4 - type: integer 
+INFO: [Synth 8-3491] module 'dig_stopwatch_v1_0' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0.vhd:5' bound to instance 'U0' of component 'dig_stopwatch_v1_0' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ip/mbdesign_dig_stopwatch_0_0/synth/mbdesign_dig_stopwatch_0_0.vhd:154]
+INFO: [Synth 8-638] synthesizing module 'dig_stopwatch_v1_0' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0.vhd:52]
+	Parameter C_S_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S_AXI_ADDR_WIDTH bound to: 4 - type: integer 
+INFO: [Synth 8-3491] module 'dig_stopwatch_v1_0_S00_AXI' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0_S00_AXI.vhd:5' bound to instance 'dig_stopwatch_v1_0_S00_AXI_inst' of component 'dig_stopwatch_v1_0_S00_AXI' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0.vhd:92]
+INFO: [Synth 8-638] synthesizing module 'dig_stopwatch_v1_0_S00_AXI' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0_S00_AXI.vhd:89]
+INFO: [Synth 8-226] default block is never used [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0_S00_AXI.vhd:234]
+INFO: [Synth 8-226] default block is never used [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0_S00_AXI.vhd:364]
+INFO: [Synth 8-3491] module 'dig_stopwatch' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:7' bound to instance 'UUI' of component 'dig_stopwatch' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0_S00_AXI.vhd:399]
+INFO: [Synth 8-638] synthesizing module 'dig_stopwatch' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:13]
+	Parameter COUNT bound to: 1000000 - type: integer 
+INFO: [Synth 8-3491] module 'my_genpulse' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:8' bound to instance 'generic_pulse' of component 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:42]
+INFO: [Synth 8-638] synthesizing module 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+INFO: [Synth 8-256] done synthesizing module 'my_genpulse' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+	Parameter COUNT bound to: 10 - type: integer 
+INFO: [Synth 8-3491] module 'my_genpulse' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:8' bound to instance 'BCD0' of component 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:47]
+INFO: [Synth 8-638] synthesizing module 'my_genpulse__parameterized1' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+INFO: [Synth 8-256] done synthesizing module 'my_genpulse__parameterized1' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+	Parameter COUNT bound to: 10 - type: integer 
+INFO: [Synth 8-3491] module 'my_genpulse' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:8' bound to instance 'BCD1' of component 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:51]
+	Parameter COUNT bound to: 10 - type: integer 
+INFO: [Synth 8-3491] module 'my_genpulse' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:8' bound to instance 'BCD2' of component 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:56]
+	Parameter COUNT bound to: 6 - type: integer 
+INFO: [Synth 8-3491] module 'my_genpulse' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:8' bound to instance 'MOD6' of component 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:61]
+INFO: [Synth 8-638] synthesizing module 'my_genpulse__parameterized3' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+INFO: [Synth 8-256] done synthesizing module 'my_genpulse__parameterized3' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+INFO: [Synth 8-3491] module 'sevenseg' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/sevenseg.vhd:4' bound to instance 'seg7' of component 'sevenseg' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:72]
+INFO: [Synth 8-638] synthesizing module 'sevenseg' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/sevenseg.vhd:10]
+INFO: [Synth 8-256] done synthesizing module 'sevenseg' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/sevenseg.vhd:10]
+INFO: [Synth 8-226] default block is never used [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:75]
+	Parameter COUNT bound to: 100000 - type: integer 
+INFO: [Synth 8-3491] module 'my_genpulse' declared at 'c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:8' bound to instance 'gfsm' of component 'my_genpulse' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:85]
+INFO: [Synth 8-638] synthesizing module 'my_genpulse__parameterized5' [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+INFO: [Synth 8-256] done synthesizing module 'my_genpulse__parameterized5' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/my_genpulse.vhd:15]
+INFO: [Synth 8-256] done synthesizing module 'dig_stopwatch' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/src/dig_stopwatch.vhd:13]
+INFO: [Synth 8-256] done synthesizing module 'dig_stopwatch_v1_0_S00_AXI' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0_S00_AXI.vhd:89]
+INFO: [Synth 8-256] done synthesizing module 'dig_stopwatch_v1_0' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ipshared/1d4c/hdl/dig_stopwatch_v1_0.vhd:52]
+INFO: [Synth 8-256] done synthesizing module 'mbdesign_dig_stopwatch_0_0' (0#1) [c:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.gen/sources_1/bd/mbdesign/ip/mbdesign_dig_stopwatch_0_0/synth/mbdesign_dig_stopwatch_0_0.vhd:85]
+WARNING: [Synth 8-7129] Port S_AXI_AWPROT[2] in module dig_stopwatch_v1_0_S00_AXI is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S_AXI_AWPROT[1] in module dig_stopwatch_v1_0_S00_AXI is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S_AXI_AWPROT[0] in module dig_stopwatch_v1_0_S00_AXI is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S_AXI_ARPROT[2] in module dig_stopwatch_v1_0_S00_AXI is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S_AXI_ARPROT[1] in module dig_stopwatch_v1_0_S00_AXI is either unconnected or has no load
+WARNING: [Synth 8-7129] Port S_AXI_ARPROT[0] in module dig_stopwatch_v1_0_S00_AXI is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:18 ; elapsed = 00:00:26 . Memory (MB): peak = 1806.078 ; gain = 504.688
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:19 ; elapsed = 00:00:27 . Memory (MB): peak = 1806.078 ; gain = 504.688
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:19 ; elapsed = 00:00:27 . Memory (MB): peak = 1806.078 ; gain = 504.688
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.020 . Memory (MB): peak = 1806.078 ; gain = 0.000
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1894.012 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.097 . Memory (MB): peak = 1894.012 ; gain = 0.000
+INFO: [Designutils 20-5008] Incremental synthesis strategy off
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [C:/Xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:39 ; elapsed = 00:00:54 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:39 ; elapsed = 00:00:54 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:39 ; elapsed = 00:00:54 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+INFO: [Synth 8-802] inferred FSM for state register 'y_reg' in module 'dig_stopwatch'
+---------------------------------------------------------------------------------------------------
+                   State |                     New Encoding |                Previous Encoding 
+---------------------------------------------------------------------------------------------------
+                  iSTATE |                               00 |                               00
+                 iSTATE0 |                               01 |                               01
+                 iSTATE1 |                               10 |                               10
+                 iSTATE2 |                               11 |                               11
+---------------------------------------------------------------------------------------------------
+INFO: [Synth 8-3354] encoded FSM with state register 'y_reg' using encoding 'sequential' in module 'dig_stopwatch'
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:40 ; elapsed = 00:00:55 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input    4 Bit       Adders := 3     
+	   2 Input    3 Bit       Adders := 1     
++---Registers : 
+	               32 Bit    Registers := 5     
+	                4 Bit    Registers := 5     
+	                3 Bit    Registers := 1     
+	                2 Bit    Registers := 2     
+	                1 Bit    Registers := 6     
++---Muxes : 
+	   2 Input   32 Bit        Muxes := 4     
+	   4 Input   32 Bit        Muxes := 5     
+	   2 Input    4 Bit        Muxes := 3     
+	   4 Input    4 Bit        Muxes := 2     
+	   2 Input    3 Bit        Muxes := 1     
+	   4 Input    2 Bit        Muxes := 1     
+	   2 Input    1 Bit        Muxes := 5     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 240 (col length:80)
+BRAMs: 270 (col length: RAMB18 80 RAMB36 40)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+INFO: [Synth 8-3917] design mbdesign_dig_stopwatch_0_0 has port EN[7] driven by constant 1
+INFO: [Synth 8-3917] design mbdesign_dig_stopwatch_0_0 has port EN[6] driven by constant 1
+INFO: [Synth 8-3917] design mbdesign_dig_stopwatch_0_0 has port EN[5] driven by constant 1
+INFO: [Synth 8-3917] design mbdesign_dig_stopwatch_0_0 has port EN[4] driven by constant 1
+WARNING: [Synth 8-7129] Port s00_axi_awprot[2] in module mbdesign_dig_stopwatch_0_0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port s00_axi_awprot[1] in module mbdesign_dig_stopwatch_0_0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port s00_axi_awprot[0] in module mbdesign_dig_stopwatch_0_0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port s00_axi_arprot[2] in module mbdesign_dig_stopwatch_0_0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port s00_axi_arprot[1] in module mbdesign_dig_stopwatch_0_0 is either unconnected or has no load
+WARNING: [Synth 8-7129] Port s00_axi_arprot[0] in module mbdesign_dig_stopwatch_0_0 is either unconnected or has no load
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:46 ; elapsed = 00:01:03 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:59 ; elapsed = 00:01:20 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:59 ; elapsed = 00:01:21 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:59 ; elapsed = 00:01:21 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-------+------+
+|      |Cell   |Count |
++------+-------+------+
+|1     |CARRY4 |    10|
+|2     |LUT1   |     5|
+|3     |LUT2   |    45|
+|4     |LUT3   |     6|
+|5     |LUT4   |    43|
+|6     |LUT5   |     4|
+|7     |LUT6   |    45|
+|8     |FDCE   |    54|
+|9     |FDRE   |   167|
+|10    |FDSE   |     3|
++------+-------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 7 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:49 ; elapsed = 00:01:31 . Memory (MB): peak = 1894.012 ; gain = 504.688
+Synthesis Optimization Complete : Time (s): cpu = 00:01:12 ; elapsed = 00:01:36 . Memory (MB): peak = 1894.012 ; gain = 592.621
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.014 . Memory (MB): peak = 1894.012 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 10 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1894.012 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete, checksum: a1716c46
+INFO: [Common 17-83] Releasing license: Synthesis
+58 Infos, 14 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:01:23 ; elapsed = 00:01:55 . Memory (MB): peak = 1894.012 ; gain = 990.324
+INFO: [Common 17-1381] The checkpoint 'C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.runs/mbdesign_dig_stopwatch_0_0_synth_1/mbdesign_dig_stopwatch_0_0.dcp' has been generated.
+INFO: [Coretcl 2-1648] Added synthesis output to IP cache for IP mbdesign_dig_stopwatch_0_0, cache-ID = caa6a36811cb66d8
+INFO: [Coretcl 2-1174] Renamed 9 cell refs.
+INFO: [Common 17-1381] The checkpoint 'C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/microblazedigital.runs/mbdesign_dig_stopwatch_0_0_synth_1/mbdesign_dig_stopwatch_0_0.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file mbdesign_dig_stopwatch_0_0_utilization_synth.rpt -pb mbdesign_dig_stopwatch_0_0_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Mon Jan 29 04:05:54 2024...

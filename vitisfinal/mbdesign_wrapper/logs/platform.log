@@ -1,0 +1,1684 @@
+TRACE::2024-01-29.18:03:08::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:08::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:08::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:08::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:08::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:08::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:08::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-01-29.18:03:09::SCWPlatform::Opened new HwDB with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-01-29.18:03:09::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper"
+		}]
+}
+TRACE::2024-01-29.18:03:09::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-01-29.18:03:09::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-01-29.18:03:09::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper"
+		}]
+}
+TRACE::2024-01-29.18:03:09::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper"
+		}]
+}
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:09::SCWDomain::checking for install qemu data   : 
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:09::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:09::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-01-29.18:03:09::SCWMssOS::No sw design opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::mss does not exists at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::Creating sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::Adding the swdes entry, created swdb C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::Writing mss at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:09::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.18:03:09::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-01-29.18:03:09::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-01-29.18:03:09::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.18:03:09::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-01-29.18:03:10::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-01-29.18:03:10::SCWMssOS::Writing the mss file completed C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-01-29.18:03:10::SCWPlatform::Started generating the artifacts platform mbdesign_wrapper
+TRACE::2024-01-29.18:03:10::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-01-29.18:03:10::SCWPlatform::Started generating the artifacts for system configuration mbdesign_wrapper
+LOG::2024-01-29.18:03:10::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-01-29.18:03:10::SCWSystem::Not a boot domain 
+LOG::2024-01-29.18:03:10::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-01-29.18:03:10::SCWDomain::Generating domain artifcats
+TRACE::2024-01-29.18:03:10::SCWMssOS::Generating standalone artifcats
+TRACE::2024-01-29.18:03:10::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.18:03:10::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-01-29.18:03:10::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-01-29.18:03:10::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-01-29.18:03:10::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-01-29.18:03:10::SCWMssOS::Copying to export directory.
+TRACE::2024-01-29.18:03:10::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-01-29.18:03:10::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-01-29.18:03:10::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-01-29.18:03:10::SCWSystem::Completed Processing the sysconfig mbdesign_wrapper
+LOG::2024-01-29.18:03:10::SCWPlatform::Completed generating the artifacts for system configuration mbdesign_wrapper
+TRACE::2024-01-29.18:03:10::SCWPlatform::Started preparing the platform 
+TRACE::2024-01-29.18:03:10::SCWSystem::Writing the bif file for system config mbdesign_wrapper
+TRACE::2024-01-29.18:03:10::SCWSystem::dir created 
+TRACE::2024-01-29.18:03:10::SCWSystem::Writing the bif 
+TRACE::2024-01-29.18:03:10::SCWPlatform::Started writing the spfm file 
+TRACE::2024-01-29.18:03:10::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-01-29.18:03:10::SCWPlatform::Completed generating the platform
+TRACE::2024-01-29.18:03:10::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.18:03:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.18:03:10::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:10::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:10::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:10::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:10::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-01-29.18:03:10::SCWPlatform::updated the xpfm file.
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.18:03:12::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.18:03:12::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.18:03:12::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.18:03:12::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-01-29.18:03:12::SCWPlatform::Started generating the artifacts platform mbdesign_wrapper
+TRACE::2024-01-29.18:03:12::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-01-29.18:03:12::SCWPlatform::Started generating the artifacts for system configuration mbdesign_wrapper
+LOG::2024-01-29.18:03:12::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-01-29.18:03:12::SCWDomain::Generating domain artifcats
+TRACE::2024-01-29.18:03:12::SCWMssOS::Generating standalone artifcats
+TRACE::2024-01-29.18:03:12::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.18:03:12::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-01-29.18:03:12::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-01-29.18:03:12::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-01-29.18:03:12::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-01-29.18:03:12::SCWMssOS::Copying to export directory.
+TRACE::2024-01-29.18:03:12::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-01-29.18:03:12::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-01-29.18:03:12::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-01-29.18:03:12::SCWSystem::Completed Processing the sysconfig mbdesign_wrapper
+LOG::2024-01-29.18:03:12::SCWPlatform::Completed generating the artifacts for system configuration mbdesign_wrapper
+TRACE::2024-01-29.18:03:12::SCWPlatform::Started preparing the platform 
+TRACE::2024-01-29.18:03:12::SCWSystem::Writing the bif file for system config mbdesign_wrapper
+TRACE::2024-01-29.18:03:12::SCWSystem::dir created 
+TRACE::2024-01-29.18:03:12::SCWSystem::Writing the bif 
+TRACE::2024-01-29.18:03:12::SCWPlatform::Started writing the spfm file 
+TRACE::2024-01-29.18:03:12::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-01-29.18:03:12::SCWPlatform::Completed generating the platform
+TRACE::2024-01-29.18:03:12::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.18:03:12::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.18:03:12::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:03:12::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:03:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:03:12::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:03:12::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:03:12::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-01-29.18:03:12::SCWPlatform::updated the xpfm file.
+LOG::2024-01-29.18:35:24::SCWPlatform::Started generating the artifacts platform mbdesign_wrapper
+TRACE::2024-01-29.18:35:24::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-01-29.18:35:24::SCWPlatform::Started generating the artifacts for system configuration mbdesign_wrapper
+LOG::2024-01-29.18:35:24::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-01-29.18:35:24::SCWSystem::Not a boot domain 
+LOG::2024-01-29.18:35:24::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-01-29.18:35:24::SCWDomain::Generating domain artifcats
+TRACE::2024-01-29.18:35:24::SCWMssOS::Generating standalone artifcats
+TRACE::2024-01-29.18:35:24::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-01-29.18:35:24::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:24::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:24::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:24::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:35:24::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:24::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:35:24::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:24::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:24::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:35:24::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:24::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:24::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.18:35:24::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:24::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-01-29.18:35:24::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-01-29.18:35:24::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-01-29.18:35:24::SCWMssOS::doing bsp build ... 
+TRACE::2024-01-29.18:35:24::SCWMssOS::System Command Ran  C: & cd  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-01-29.18:35:24::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.18:35:24::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.18:35:24::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.18:35:24::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.18:35:24::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::"Running Make include in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-01-29.18:35:24::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-01-29.18:35:24::SCWMssOS::ns -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.18:35:24::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.18:35:24::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.18:35:24::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:25::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.18:35:25::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-01-29.18:35:25::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2024-01-29.18:35:25::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:25::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.18:35:25::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-01-29.18:35:25::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-01-29.18:35:25::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.18:35:26::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.18:35:26::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.18:35:26::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.18:35:26::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.18:35:26::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.18:35:26::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-01-29.18:35:26::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-01-29.18:35:26::SCWMssOS::ns -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.18:35:26::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.18:35:26::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-01-29.18:35:26::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2024-01-29.18:35:26::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-01-29.18:35:26::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-01-29.18:35:26::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-01-29.18:35:26::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-01-29.18:35:26::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-01-29.18:35:26::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-01-29.18:35:26::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-01-29.18:35:26::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-01-29.18:35:26::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-01-29.18:35:26::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2024-01-29.18:35:26::SCWMssOS::Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.18:35:26::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-01-29.18:35:26::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-01-29.18:35:26::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.18:35:28::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/dig_stopwatch.o microblaze_0/lib/dig_stopwatch_se
+TRACE::2024-01-29.18:35:29::SCWMssOS::lftest.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/inbyte.o mi
+TRACE::2024-01-29.18:35:29::SCWMssOS::croblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disable_exceptions.o microblaze_0/lib/microblaze_disable
+TRACE::2024-01-29.18:35:29::SCWMssOS::_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/microbl
+TRACE::2024-01-29.18:35:29::SCWMssOS::aze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_
+TRACE::2024-01-29.18:35:29::SCWMssOS::0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/microblaze_flush_cache_ext_
+TRACE::2024-01-29.18:35:29::SCWMssOS::range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze
+TRACE::2024-01-29.18:35:29::SCWMssOS::_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze
+TRACE::2024-01-29.18:35:29::SCWMssOS::_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze_invalidate_cach
+TRACE::2024-01-29.18:35:29::SCWMssOS::e_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_
+TRACE::2024-01-29.18:35:29::SCWMssOS::0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_scrub.o 
+TRACE::2024-01-29.18:35:29::SCWMssOS::microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/microblaze_update_dcache.o microbla
+TRACE::2024-01-29.18:35:29::SCWMssOS::ze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib
+TRACE::2024-01-29.18:35:29::SCWMssOS::/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sini
+TRACE::2024-01-29.18:35:29::SCWMssOS::t.o microblaze_0/lib/xil_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o
+TRACE::2024-01-29.18:35:29::SCWMssOS:: microblaze_0/lib/xil_mem.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcom
+TRACE::2024-01-29.18:35:29::SCWMssOS::mon.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o
+TRACE::2024-01-29.18:35:29::SCWMssOS:: microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/xtmrctr.o microbl
+TRACE::2024-01-29.18:35:29::SCWMssOS::aze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xtmrctr_options.o microblaz
+TRACE::2024-01-29.18:35:29::SCWMssOS::e_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/xtmrctr_stats.o microblaze_0/lib/xuartlite.o micro
+TRACE::2024-01-29.18:35:29::SCWMssOS::blaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.
+TRACE::2024-01-29.18:35:29::SCWMssOS::o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::Copying to export directory.
+TRACE::2024-01-29.18:35:29::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-01-29.18:35:29::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-01-29.18:35:29::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-01-29.18:35:29::SCWSystem::Completed Processing the sysconfig mbdesign_wrapper
+LOG::2024-01-29.18:35:29::SCWPlatform::Completed generating the artifacts for system configuration mbdesign_wrapper
+TRACE::2024-01-29.18:35:29::SCWPlatform::Started preparing the platform 
+TRACE::2024-01-29.18:35:29::SCWSystem::Writing the bif file for system config mbdesign_wrapper
+TRACE::2024-01-29.18:35:29::SCWSystem::dir created 
+TRACE::2024-01-29.18:35:29::SCWSystem::Writing the bif 
+TRACE::2024-01-29.18:35:29::SCWPlatform::Started writing the spfm file 
+TRACE::2024-01-29.18:35:29::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-01-29.18:35:29::SCWPlatform::Completed generating the platform
+TRACE::2024-01-29.18:35:29::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.18:35:29::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.18:35:29::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.18:35:29::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:35:29::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:35:29::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:35:29::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:35:29::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:35:29::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:29::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:35:29::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:35:29::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:29::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-01-29.18:35:29::SCWPlatform::updated the xpfm file.
+TRACE::2024-01-29.18:35:31::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:31::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:31::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:31::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.18:35:31::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.18:35:31::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.18:35:31::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:31::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.18:35:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.18:35:31::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.18:35:31::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.18:35:31::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:10::SCWMssOS::cleaning the bsp 
+TRACE::2024-01-29.19:44:10::SCWMssOS::System Command Ran  C: & cd  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp & make clean 
+TRACE::2024-01-29.19:44:10::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+TRACE::2024-01-29.19:44:10::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+TRACE::2024-01-29.19:44:10::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s clean 
+
+TRACE::2024-01-29.19:44:10::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+TRACE::2024-01-29.19:44:10::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s clean 
+
+TRACE::2024-01-29.19:44:10::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2024-01-29.19:44:11::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-01-29.19:44:16::SCWPlatform::Started generating the artifacts platform mbdesign_wrapper
+TRACE::2024-01-29.19:44:16::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-01-29.19:44:16::SCWPlatform::Started generating the artifacts for system configuration mbdesign_wrapper
+LOG::2024-01-29.19:44:16::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-01-29.19:44:16::SCWSystem::Not a boot domain 
+LOG::2024-01-29.19:44:16::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-01-29.19:44:16::SCWDomain::Generating domain artifcats
+TRACE::2024-01-29.19:44:16::SCWMssOS::Generating standalone artifcats
+TRACE::2024-01-29.19:44:16::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-01-29.19:44:16::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:16::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:16::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:16::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.19:44:16::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:16::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.19:44:16::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:16::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.19:44:16::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:16::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:16::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.19:44:16::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:16::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-01-29.19:44:16::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-01-29.19:44:16::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-01-29.19:44:16::SCWMssOS::doing bsp build ... 
+TRACE::2024-01-29.19:44:16::SCWMssOS::System Command Ran  C: & cd  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-01-29.19:44:16::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.19:44:16::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.19:44:16::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.19:44:16::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.19:44:16::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make include in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-01-29.19:44:16::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-01-29.19:44:16::SCWMssOS::ns -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.19:44:16::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.19:44:16::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-01-29.19:44:16::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2024-01-29.19:44:16::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-01-29.19:44:16::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-01-29.19:44:16::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::"Running Make libs in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.19:44:16::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.19:44:16::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.19:44:16::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.19:44:17::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.19:44:17::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.19:44:17::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.19:44:17::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make include in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-01-29.19:44:17::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-01-29.19:44:17::SCWMssOS::ns -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.19:44:17::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.19:44:17::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-01-29.19:44:17::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2024-01-29.19:44:17::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-01-29.19:44:17::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-01-29.19:44:17::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-01-29.19:44:17::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-01-29.19:44:17::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-01-29.19:44:17::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-01-29.19:44:17::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-01-29.19:44:17::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-01-29.19:44:17::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-01-29.19:44:17::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2024-01-29.19:44:17::SCWMssOS::Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.19:44:17::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-01-29.19:44:17::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-01-29.19:44:17::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/dig_stopwatch.o microblaze_0/lib/dig_stopwatch_se
+TRACE::2024-01-29.19:44:19::SCWMssOS::lftest.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/inbyte.o mi
+TRACE::2024-01-29.19:44:19::SCWMssOS::croblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disable_exceptions.o microblaze_0/lib/microblaze_disable
+TRACE::2024-01-29.19:44:19::SCWMssOS::_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/microbl
+TRACE::2024-01-29.19:44:19::SCWMssOS::aze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_
+TRACE::2024-01-29.19:44:19::SCWMssOS::0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/microblaze_flush_cache_ext_
+TRACE::2024-01-29.19:44:19::SCWMssOS::range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze
+TRACE::2024-01-29.19:44:19::SCWMssOS::_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze
+TRACE::2024-01-29.19:44:19::SCWMssOS::_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze_invalidate_cach
+TRACE::2024-01-29.19:44:19::SCWMssOS::e_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_
+TRACE::2024-01-29.19:44:19::SCWMssOS::0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_scrub.o 
+TRACE::2024-01-29.19:44:19::SCWMssOS::microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/microblaze_update_dcache.o microbla
+TRACE::2024-01-29.19:44:19::SCWMssOS::ze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib
+TRACE::2024-01-29.19:44:19::SCWMssOS::/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sini
+TRACE::2024-01-29.19:44:19::SCWMssOS::t.o microblaze_0/lib/xil_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o
+TRACE::2024-01-29.19:44:19::SCWMssOS:: microblaze_0/lib/xil_mem.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcom
+TRACE::2024-01-29.19:44:19::SCWMssOS::mon.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o
+TRACE::2024-01-29.19:44:19::SCWMssOS:: microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/xtmrctr.o microbl
+TRACE::2024-01-29.19:44:19::SCWMssOS::aze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xtmrctr_options.o microblaz
+TRACE::2024-01-29.19:44:19::SCWMssOS::e_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/xtmrctr_stats.o microblaze_0/lib/xuartlite.o micro
+TRACE::2024-01-29.19:44:19::SCWMssOS::blaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.
+TRACE::2024-01-29.19:44:19::SCWMssOS::o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::Copying to export directory.
+TRACE::2024-01-29.19:44:19::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-01-29.19:44:19::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-01-29.19:44:19::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-01-29.19:44:19::SCWSystem::Completed Processing the sysconfig mbdesign_wrapper
+LOG::2024-01-29.19:44:19::SCWPlatform::Completed generating the artifacts for system configuration mbdesign_wrapper
+TRACE::2024-01-29.19:44:19::SCWPlatform::Started preparing the platform 
+TRACE::2024-01-29.19:44:19::SCWSystem::Writing the bif file for system config mbdesign_wrapper
+TRACE::2024-01-29.19:44:19::SCWSystem::dir created 
+TRACE::2024-01-29.19:44:19::SCWSystem::Writing the bif 
+TRACE::2024-01-29.19:44:19::SCWPlatform::Started writing the spfm file 
+TRACE::2024-01-29.19:44:19::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-01-29.19:44:19::SCWPlatform::Completed generating the platform
+TRACE::2024-01-29.19:44:19::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.19:44:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.19:44:19::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.19:44:19::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.19:44:19::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.19:44:19::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.19:44:19::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.19:44:19::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.19:44:19::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:19::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.19:44:19::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.19:44:19::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:19::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-01-29.19:44:19::SCWPlatform::updated the xpfm file.
+TRACE::2024-01-29.19:44:21::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:21::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:21::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:21::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.19:44:21::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.19:44:21::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.19:44:21::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:21::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.19:44:21::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.19:44:21::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.19:44:21::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.19:44:21::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+LOG::2024-01-29.20:09:59::SCWPlatform::Started generating the artifacts platform mbdesign_wrapper
+TRACE::2024-01-29.20:09:59::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-01-29.20:09:59::SCWPlatform::Started generating the artifacts for system configuration mbdesign_wrapper
+LOG::2024-01-29.20:09:59::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-01-29.20:09:59::SCWSystem::Not a boot domain 
+LOG::2024-01-29.20:09:59::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-01-29.20:09:59::SCWDomain::Generating domain artifcats
+TRACE::2024-01-29.20:09:59::SCWMssOS::Generating standalone artifcats
+TRACE::2024-01-29.20:09:59::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-01-29.20:09:59::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:09:59::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:09:59::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:09:59::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.20:09:59::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:09:59::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.20:09:59::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.20:09:59::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.20:09:59::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.20:09:59::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:09:59::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:09:59::SCWMssOS::Completed writing the mss file at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-01-29.20:09:59::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:09:59::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-01-29.20:09:59::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-01-29.20:09:59::SCWDomain::Building the domain :  standalone_microblaze_0
+TRACE::2024-01-29.20:09:59::SCWMssOS::doing bsp build ... 
+TRACE::2024-01-29.20:09:59::SCWMssOS::System Command Ran  C: & cd  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-01-29.20:09:59::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.20:09:59::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.20:09:59::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.20:09:59::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.20:09:59::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-01-29.20:09:59::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-01-29.20:09:59::SCWMssOS::ns -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.20:09:59::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.20:09:59::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-01-29.20:09:59::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2024-01-29.20:09:59::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-01-29.20:09:59::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-01-29.20:09:59::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::"Running Make libs in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.20:09:59::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.20:09:59::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-01-29.20:09:59::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.20:10:00::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.20:10:00::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-01-29.20:10:00::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-01-29.20:10:00::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/dig_stopwatch_v1_0/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/dig_stopwatch_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar"
+TRACE::2024-01-29.20:10:00::SCWMssOS:: "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sectio
+TRACE::2024-01-29.20:10:00::SCWMssOS::ns -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-01-29.20:10:00::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-01-29.20:10:00::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-01-29.20:10:00::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wal
+TRACE::2024-01-29.20:10:00::SCWMssOS::l -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-01-29.20:10:00::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-01-29.20:10:00::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-01-29.20:10:00::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-01-29.20:10:00::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-01-29.20:10:00::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-01-29.20:10:00::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-01-29.20:10:00::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-01-29.20:10:00::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-01-29.20:10:00::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -
+TRACE::2024-01-29.20:10:00::SCWMssOS::Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-01-29.20:10:00::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-01-29.20:10:00::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-01-29.20:10:00::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/dig_stopwatch.o microblaze_0/lib/dig_stopwatch_se
+TRACE::2024-01-29.20:10:00::SCWMssOS::lftest.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib/hw_exception_handler.o microblaze_0/lib/inbyte.o mi
+TRACE::2024-01-29.20:10:00::SCWMssOS::croblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disable_exceptions.o microblaze_0/lib/microblaze_disable
+TRACE::2024-01-29.20:10:00::SCWMssOS::_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/microbl
+TRACE::2024-01-29.20:10:00::SCWMssOS::aze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_
+TRACE::2024-01-29.20:10:00::SCWMssOS::0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/lib/microblaze_flush_cache_ext_
+TRACE::2024-01-29.20:10:00::SCWMssOS::range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze
+TRACE::2024-01-29.20:10:00::SCWMssOS::_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microblaze_0/lib/microblaze_interrupt_handler.o microblaze
+TRACE::2024-01-29.20:10:00::SCWMssOS::_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze_invalidate_cach
+TRACE::2024-01-29.20:10:00::SCWMssOS::e_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/lib/microblaze_invalidate_dcache_range.o microblaze_
+TRACE::2024-01-29.20:10:00::SCWMssOS::0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate_icache_range.o microblaze_0/lib/microblaze_scrub.o 
+TRACE::2024-01-29.20:10:00::SCWMssOS::microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o microblaze_0/lib/microblaze_update_dcache.o microbla
+TRACE::2024-01-29.20:10:00::SCWMssOS::ze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib
+TRACE::2024-01-29.20:10:00::SCWMssOS::/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sini
+TRACE::2024-01-29.20:10:00::SCWMssOS::t.o microblaze_0/lib/xil_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o
+TRACE::2024-01-29.20:10:00::SCWMssOS:: microblaze_0/lib/xil_mem.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcom
+TRACE::2024-01-29.20:10:00::SCWMssOS::mon.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o
+TRACE::2024-01-29.20:10:00::SCWMssOS:: microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaze_0/lib/xtmrctr.o microbl
+TRACE::2024-01-29.20:10:00::SCWMssOS::aze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xtmrctr_options.o microblaz
+TRACE::2024-01-29.20:10:00::SCWMssOS::e_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_sinit.o microblaze_0/lib/xtmrctr_stats.o microblaze_0/lib/xuartlite.o micro
+TRACE::2024-01-29.20:10:00::SCWMssOS::blaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.
+TRACE::2024-01-29.20:10:00::SCWMssOS::o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-01-29.20:10:01::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-01-29.20:10:01::SCWMssOS::Copying to export directory.
+TRACE::2024-01-29.20:10:01::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-01-29.20:10:01::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-01-29.20:10:01::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-01-29.20:10:01::SCWSystem::Completed Processing the sysconfig mbdesign_wrapper
+LOG::2024-01-29.20:10:01::SCWPlatform::Completed generating the artifacts for system configuration mbdesign_wrapper
+TRACE::2024-01-29.20:10:01::SCWPlatform::Started preparing the platform 
+TRACE::2024-01-29.20:10:01::SCWSystem::Writing the bif file for system config mbdesign_wrapper
+TRACE::2024-01-29.20:10:01::SCWSystem::dir created 
+TRACE::2024-01-29.20:10:01::SCWSystem::Writing the bif 
+TRACE::2024-01-29.20:10:01::SCWPlatform::Started writing the spfm file 
+TRACE::2024-01-29.20:10:01::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-01-29.20:10:01::SCWPlatform::Completed generating the platform
+TRACE::2024-01-29.20:10:01::SCWMssOS::Saving the mss changes C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-01-29.20:10:01::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-01-29.20:10:01::SCWMssOS::Commit changes completed.
+TRACE::2024-01-29.20:10:01::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.20:10:01::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.20:10:01::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.20:10:01::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.20:10:01::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.20:10:01::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.20:10:01::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.20:10:01::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:01::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:01::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.20:10:01::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.20:10:01::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:01::SCWWriter::formatted JSON is {
+	"platformName":	"mbdesign_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mbdesign_wrapper",
+	"platHandOff":	"C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/microblazedigital/mbdesign_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mbdesign_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mbdesign_wrapper",
+	"systems":	[{
+			"systemName":	"mbdesign_wrapper",
+			"systemDesc":	"mbdesign_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mbdesign_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"e296f9fc7343da5fb42fa1ad1f7ae204",
+					"compatibleApp":	"peripheral_tests",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-01-29.20:10:01::SCWPlatform::updated the xpfm file.
+TRACE::2024-01-29.20:10:02::SCWPlatform::Trying to open the hw design at C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:02::SCWPlatform::DSA given C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:02::SCWPlatform::DSA absoulate path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:02::SCWPlatform::DSA directory C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw
+TRACE::2024-01-29.20:10:02::SCWPlatform:: Platform Path C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/hw/mbdesign_wrapper.xsa
+TRACE::2024-01-29.20:10:02::SCWPlatform:: Unique name xilinx:nexys4_ddr::0.0
+TRACE::2024-01-29.20:10:02::SCWPlatform::Trying to set the existing hwdb with name mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:02::SCWPlatform::Opened existing hwdb mbdesign_wrapper_0
+TRACE::2024-01-29.20:10:02::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-01-29.20:10:02::SCWMssOS::Checking the sw design at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-01-29.20:10:02::SCWMssOS::DEBUG:  swdes dump  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-01-29.20:10:02::SCWMssOS::Sw design exists and opened at  C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss

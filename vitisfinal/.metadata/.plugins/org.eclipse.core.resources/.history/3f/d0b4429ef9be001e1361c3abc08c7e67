@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="pheri_test" location="C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/pheri_test" platform="C:/Users/tekpun/Desktop/Microblazedigitalstopwatch/vitisfinal/mbdesign_wrapper/export/mbdesign_wrapper/mbdesign_wrapper.xpfm" platformUID="xilinx:nexys4_ddr::0.0(custom)" systemProject="pheri_test_system" sysConfig="mbdesign_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="261bb5c55fe455231717fcd3799ce360">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1107083829">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1975107776" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="peripheral_tests"/>
+</sdkproject:SdkProject>

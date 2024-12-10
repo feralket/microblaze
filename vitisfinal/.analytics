@@ -1,0 +1,86 @@
+timestamp=[2024-01-29 18:02:35], mode=WORKBENCH_START, duration=0:00:06.264, duration_ms=6264, data={}
+timestamp=[2024-01-29 18:02:35], mode=WORKBENCH_UI_INIT, duration=0:00:00.492, duration_ms=492, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-01-29 18:02:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.923, duration_ms=1923, data={}
+timestamp=[2024-01-29 18:03:16], mode=APP_CREATION, duration=0:00:07.966, duration_ms=7966, data={name=pheri_test, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=mbdesign_wrapper, application_type=application}
+timestamp=[2024-01-29 18:35:31], mode=PLATFORM_GENERATION, duration=0:00:10.392, duration_ms=10392, data={name=mbdesign_wrapper}
+timestamp=[2024-01-29 18:35:33], mode=BUILD, duration=0:00:01.773, duration_ms=1773, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 18:35:34], mode=BUILD, duration=0:00:00.230, duration_ms=230, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 18:35:35], mode=BUILD, duration=0:00:00.240, duration_ms=240, data={name=pheri_test_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 18:42:23], mode=BUILD, duration=0:00:00.191, duration_ms=191, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 18:42:23], mode=BUILD, duration=0:00:00.118, duration_ms=118, data={name=pheri_test_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 18:44:43], mode=BUILD, duration=0:00:00.191, duration_ms=191, data={name=pheri_test, configuration=Debug, clean_build=true}
+timestamp=[2024-01-29 18:44:44], mode=BUILD, duration=0:00:00.742, duration_ms=742, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 18:52:35], mode=BUILD, duration=0:00:00.182, duration_ms=182, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:04:45], mode=BUILD, duration=0:00:00.253, duration_ms=253, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:05:19], mode=BUILD, duration=0:00:00.568, duration_ms=568, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:06:01], mode=BUILD, duration=0:00:00.191, duration_ms=191, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:09:49], mode=BUILD, duration=0:00:00.584, duration_ms=584, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:11:16], mode=BUILD, duration=0:00:00.134, duration_ms=134, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:11:52], mode=BUILD, duration=0:00:00.557, duration_ms=557, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:12:25], mode=BUILD, duration=0:00:00.553, duration_ms=553, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:12:33], mode=BUILD, duration=0:00:00.183, duration_ms=183, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:12:33], mode=BUILD, duration=0:00:00.109, duration_ms=109, data={name=pheri_test_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:12:35], mode=BUILD, duration=0:00:00.124, duration_ms=124, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:12:40], mode=BUILD, duration=0:00:00.186, duration_ms=186, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:13:22], mode=BUILD, duration=0:00:00.563, duration_ms=563, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:13:41], mode=BUILD, duration=0:00:00.188, duration_ms=188, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:14:56], mode=BUILD, duration=0:00:00.559, duration_ms=559, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:17:52], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:30:00], mode=BUILD, duration=0:00:00.625, duration_ms=625, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:34:38], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:37:19], mode=BUILD, duration=0:00:00.568, duration_ms=568, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:38:58], mode=BUILD, duration=0:00:00.574, duration_ms=574, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:39:34], mode=BUILD, duration=0:00:00.133, duration_ms=133, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:41:34], mode=BUILD, duration=0:00:00.631, duration_ms=631, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:41:41], mode=BUILD, duration=0:00:00.182, duration_ms=182, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:41:41], mode=BUILD, duration=0:00:00.112, duration_ms=112, data={name=pheri_test_system, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:43:36], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:44:11], mode=PLATFORM_GENERATION, duration=0:00:04.431, duration_ms=4431, data={name=mbdesign_wrapper}
+timestamp=[2024-01-29 19:44:11], mode=BUILD, duration=0:00:00.190, duration_ms=190, data={name=pheri_test, configuration=Debug, clean_build=true}
+timestamp=[2024-01-29 19:44:11], mode=BUILD, duration=0:00:00.203, duration_ms=203, data={name=pheri_test_system, configuration=Debug, clean_build=true}
+timestamp=[2024-01-29 19:44:21], mode=PLATFORM_GENERATION, duration=0:00:07.307, duration_ms=7307, data={name=mbdesign_wrapper}
+timestamp=[2024-01-29 19:44:23], mode=BUILD, duration=0:00:00.811, duration_ms=811, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:46:37], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:47:45], mode=BUILD, duration=0:00:00.621, duration_ms=621, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:49:21], mode=BUILD, duration=0:00:00.574, duration_ms=574, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:51:05], mode=BUILD, duration=0:00:00.259, duration_ms=259, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:51:27], mode=BUILD, duration=0:00:00.629, duration_ms=629, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:53:08], mode=BUILD, duration=0:00:00.252, duration_ms=252, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:54:17], mode=BUILD, duration=0:00:00.256, duration_ms=256, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:54:56], mode=BUILD, duration=0:00:00.257, duration_ms=257, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:55:50], mode=BUILD, duration=0:00:00.263, duration_ms=263, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:56:00], mode=BUILD, duration=0:00:00.257, duration_ms=257, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:56:17], mode=BUILD, duration=0:00:00.254, duration_ms=254, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:57:28], mode=BUILD, duration=0:00:00.433, duration_ms=433, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:57:36], mode=BUILD, duration=0:00:00.244, duration_ms=244, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 19:58:06], mode=BUILD, duration=0:00:00.252, duration_ms=252, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:10:02], mode=PLATFORM_GENERATION, duration=0:00:06.288, duration_ms=6288, data={name=mbdesign_wrapper}
+timestamp=[2024-01-29 20:10:03], mode=BUILD, duration=0:00:00.242, duration_ms=242, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:10:56], mode=BUILD, duration=0:00:00.624, duration_ms=624, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:11:33], mode=BUILD, duration=0:00:00.557, duration_ms=557, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:12:21], mode=BUILD, duration=0:00:00.254, duration_ms=254, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:12:50], mode=BUILD, duration=0:00:00.565, duration_ms=565, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:13:18], mode=BUILD, duration=0:00:00.636, duration_ms=636, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:14:55], mode=BUILD, duration=0:00:00.573, duration_ms=573, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:15:58], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:16:38], mode=BUILD, duration=0:00:00.244, duration_ms=244, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:17:02], mode=BUILD, duration=0:00:00.241, duration_ms=241, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:17:32], mode=BUILD, duration=0:00:00.570, duration_ms=570, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:18:10], mode=BUILD, duration=0:00:00.561, duration_ms=561, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:18:12], mode=BUILD, duration=0:00:00.198, duration_ms=198, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:32:32], mode=BUILD, duration=0:00:00.432, duration_ms=432, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:32:50], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:33:32], mode=BUILD, duration=0:00:00.187, duration_ms=187, data={name=pheri_test, configuration=Debug, clean_build=true}
+timestamp=[2024-01-29 20:33:33], mode=BUILD, duration=0:00:00.748, duration_ms=748, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:41:50], mode=BUILD, duration=0:00:00.623, duration_ms=623, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 20:42:16], mode=BUILD, duration=0:00:00.137, duration_ms=137, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 21:16:54], mode=WORKBENCH_START, duration=0:00:07.594, duration_ms=7594, data={}
+timestamp=[2024-01-29 21:16:54], mode=WORKBENCH_UI_INIT, duration=0:00:00.741, duration_ms=741, data={editors_count=7, platform_editors_count=4, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,mbdesign_wrapper,pheri_test,pheri_test_system}
+timestamp=[2024-01-29 21:16:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.380, duration_ms=1380, data={}
+timestamp=[2024-01-29 21:17:05], mode=BUILD, duration=0:00:00.251, duration_ms=251, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 21:17:08], mode=BUILD, duration=0:00:00.145, duration_ms=145, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 22:56:11], mode=WORKBENCH_START, duration=0:00:11.812, duration_ms=11812, data={}
+timestamp=[2024-01-29 22:56:12], mode=WORKBENCH_UI_INIT, duration=0:00:00.944, duration_ms=944, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,mbdesign_wrapper,pheri_test,pheri_test_system}
+timestamp=[2024-01-29 22:56:15], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:02.153, duration_ms=2153, data={}
+timestamp=[2024-01-29 22:56:20], mode=BUILD, duration=0:00:00.661, duration_ms=661, data={name=pheri_test, configuration=Debug, clean_build=false}
+timestamp=[2024-01-29 22:56:35], mode=BUILD, duration=0:00:00.205, duration_ms=205, data={name=pheri_test, configuration=Debug, clean_build=false}

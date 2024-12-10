@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER dig_stopwatch
+	OPTION supported_peripherals = (dig_stopwatch);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = dig_stopwatch;
+END DRIVER
